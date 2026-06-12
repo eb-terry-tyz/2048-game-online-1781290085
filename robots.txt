@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eb-terry-tyz.github.io/2048-game-online-1781290085/sitemap.xml
